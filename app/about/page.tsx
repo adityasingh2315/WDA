@@ -1,4 +1,5 @@
 import { Brain, Users, LineChart, AlertCircle, Heart, Globe } from 'lucide-react';
+import Image from 'next/image';
 
 const Index = () => {
   return (
@@ -19,7 +20,7 @@ const Index = () => {
             </div>
             <div className="flex-1 relative animate-scale-in">
               <div className="w-full h-[400px] relative">
-                <img
+                <Image
                   src="/placeholder.svg"
                   alt="Mental Health Support"
                   className="w-full h-full object-contain"

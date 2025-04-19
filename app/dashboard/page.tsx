@@ -194,7 +194,7 @@ const Dashboard = () => {
       <div className="flex justify-between items-center bg-gradient-to-r from-purple-50 to-blue-50 p-6 rounded-xl shadow-sm">
         <div>
           <h1 className="text-4xl font-bold text-primary mb-2">Welcome back, {user?.firstName || 'User'}</h1>
-          <p className="text-muted-foreground">Here's your mental health overview</p>
+          <p className="text-muted-foreground">Here&apos;s your mental health overview</p>
         </div>
         <Button 
           className="gap-2 shadow-md hover:shadow-lg transition-all" 
