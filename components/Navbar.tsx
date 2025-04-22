@@ -26,8 +26,8 @@ export default function Navbar() {
           <div className="flex-shrink-0">
             <Link href="/" className="flex items-center">
               <span className="text-3xl font-bold">
-                <span className="text-blue-500">M</span>
-                <span className="text-gray-900">oodmap</span>
+                <span className="text-blue-500">E</span>
+                <span className="text-gray-900">moTrack</span>
               </span>
             </Link>
           </div>
