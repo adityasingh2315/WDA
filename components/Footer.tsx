@@ -8,7 +8,7 @@ export function Footer() {
         <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6 lg:gap-8">
           {/* Brand Section */}
           <div className="col-span-2 sm:col-span-2 lg:col-span-1 space-y-3">
-            <h2 className="text-xl font-bold text-primary">MoodMap</h2>
+            <h2 className="text-xl font-bold text-primary">EmoTrack</h2>
             <p className="text-muted-foreground text-xs sm:text-sm">
               Empowering mental health through innovative technology and compassionate care.
             </p>
